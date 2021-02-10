@@ -1,3 +1,3 @@
 whngam
 20560692
-![Git History](file:///C:/Users/User/eclipse-workspace/Lab1/git_history.png)
+![Git History](https://gyazo.com/d7f1654db67943495a44e4a5580db4b8)
