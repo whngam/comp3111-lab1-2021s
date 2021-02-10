@@ -1,3 +1,3 @@
 whngam
 20560692
-![Git History](/Lab1/git_history.png)
+![Git History](https://github.com/whngam/comp3111-lab1-2021s/blob/master/git_history.png)
