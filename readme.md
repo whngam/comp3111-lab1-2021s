@@ -1,3 +1,3 @@
 whngam
 20560692
-![Git History](https://octodex.github.com/images/yaktocat.png)
+![Git History](/Lab1/git_history.png)
